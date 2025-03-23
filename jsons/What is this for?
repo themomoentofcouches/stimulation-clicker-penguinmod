@@ -1,0 +1,7 @@
+This folder contains JSON files, on TXT file and the files are used to get Penguinmod lists working.
+
+How this works:
+1. An HTTP server is used.
+2. Checks whenever the request failed or not.
+3. Stores the JSON into a variable
+4. Changes lists with array, using the stored JSON.
